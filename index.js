@@ -3,7 +3,7 @@ const axios = require('axios')
 const fs = require('fs')
 const es = require('child_process').execSync;
 
-process.chdir('/data/data/com.termux/files/home/gitcoinIssues')
+process.chdir('/data/data/com.termux/files/home/gitcoinIssues') // Change this to whatever directory the script is installed in
 data = fs.readFileSync('lastIssue.json')
 var last_date = JSON.parse(data)
 
