@@ -20,3 +20,4 @@ Have Termux, Termux-API, and Tasker installed on your phone
 3. Set up a tasker Time profile that runs on a regular basis that fires the task you created in step #2.  Just don't be a 
    jerk and set it to ping every second and consume all of Gitcoin's bandwidth.
 4. Tap on any notification and a new browser window will open on the issue page on Gitcoin
+![img](https://github.com/acolytec3/gitcoin-android-issue-notifier/blob/master/notification.png)
